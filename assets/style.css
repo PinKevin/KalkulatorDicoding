@@ -7,6 +7,20 @@ body {
     color: white;
 }
 
+body>h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#judul>#bag1 {
+    color: rgb(65, 190, 255);
+}
+
+#judul>#bag2 {
+    color: #f039b1;
+}
+
 .flex-container-column {
     display: flex;
     flex-direction: column;
