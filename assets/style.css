@@ -4,6 +4,7 @@
 
 body {
     font-family: sans-serif;
+    color: white;
 }
 
 .flex-container-column {
@@ -24,7 +25,7 @@ body {
     text-align: center;
     padding: 40px;
     border: 1px solid black;
-    background: -webkit-linear-gradient(top, #d2d2d2, #ddd);
+    background: -webkit-linear-gradient(top, rgb(82, 197, 255), rgb(48, 183, 255));
     cursor: pointer;
 }
 
@@ -44,7 +45,7 @@ body {
 .operator,
 .negative,
 .equals {
-    background: orange;
+    background: #f039b1;
 }
 
 .card {
